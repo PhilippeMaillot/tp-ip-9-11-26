@@ -1,0 +1,11 @@
+events/*
+!events/.gitkeep
+resultats/*
+!resultats/.gitkeep
+notebooks/.ipynb_checkpoints/
+.venv/
+__pycache__/
+spark-warehouse/
+derby.log
+metastore_db/
+data/

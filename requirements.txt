@@ -1,0 +1,11 @@
+# Environnement local Python 3.11, avec la même version de Spark que Docker.
+pyspark==3.5.7
+numpy==1.26.4
+pandas==2.0.3
+pyarrow==14.0.2
+matplotlib==3.7.5
+seaborn==0.13.2
+plotly==5.24.1
+pymongo==4.8.0
+ipykernel==7.4.0
+nbformat==5.10.4
